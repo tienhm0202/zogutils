@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "zogvn_utils"
-version = "0.1.1"
+version = "0.2.0"
 description = "general utilities"
 authors = ["Hoang Manh Tien <tienhm.0202@gmail.com>"]
 
