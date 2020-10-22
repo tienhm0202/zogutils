@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "zogutils"
-version = "1.0.3"
+version = "1.0.4"
 description = "General utilities to be use in my base-fastapi template. Why ZOG? It's sound like joke and look like zoo."
 authors = ["Hoang Manh Tien <tienhm.0202@gmail.com>"]
 readme = "README.md"
