@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "zogvn_utils"
-version = "0.2.0"
-description = "general utilities"
+name = "zogutils"
+version = "1.0.0"
+description = "General utilities to be use in my base-fastapi template. Why ZOG? It's sound like joke and look like zoo."
 authors = ["Hoang Manh Tien <tienhm.0202@gmail.com>"]
 
 [tool.poetry.dependencies]
